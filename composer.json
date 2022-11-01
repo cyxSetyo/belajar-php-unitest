@@ -8,5 +8,21 @@
             "email": "98861415+cyxSetyo@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">8.0"
+    },
+    "require-dev":{
+        "phpunit/phpunit" : "9.5.26"
+    },
+    "autoload": {
+        "psr-4": {
+            "BelajarPhpUnitest\\Test\\" : "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BelajarPhpUnitest\\Test\\" : "tests"
+        }
+    }
+
 }
