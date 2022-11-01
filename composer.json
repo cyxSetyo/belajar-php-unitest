@@ -1,0 +1,12 @@
+{
+    "name": "cyx/belajar-php-unitest",
+    "description": "Belajar Php Unit Test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cyxSetyo",
+            "email": "98861415+cyxSetyo@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
